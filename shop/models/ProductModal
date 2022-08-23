@@ -1,0 +1,27 @@
+<?php 
+
+require_once APPPATH.'/libraries/api/APIManager.php';
+
+class ProductModal extends APIManager{
+
+
+	public function __construct() {
+		parent::__construct();
+   }
+
+	public function getProducts($categoryId){
+		return $this->category->getCategoryProducts($categoryId);
+	}
+
+
+	
+	
+	public function getProductDetails($productId){
+		return $this->category->getProductDetail($productId);
+	}
+
+
+}
+
+
+?>

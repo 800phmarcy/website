@@ -1,0 +1,32 @@
+.sub-title-section.col-6{
+text-align: end;
+}
+
+.sub-title-section.col-6 .text-uppercase {
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+
+.block-3 .owl-stage {
+     padding-top: 0px;
+}
+
+.block-3 .owl-nav {
+    left: 0;
+    bottom: 18rem;
+    width: 100%;
+ }
+
+.block-3 .owl-nav .owl-prev{
+    left: 45%;
+}
+
+.block-3 .owl-nav .owl-next {
+    left: 82vw;
+}
+.site-section {
+    padding: 1em 0!Important;
+}
+.map-border{
+	border-radius: 1rem;
+}
