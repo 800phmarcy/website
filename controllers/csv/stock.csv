@@ -1,0 +1,18 @@
+order_id,total,payment_method,first_name,last_name,emirates,area_name,hub_name,order_status,created_at,accepted_at,prepared_at,assigned_at,started_at,completed_at,"cancel""reason",delay_reason
+1,43.2500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 10:46:51",,,,,,,
+2,16.7500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 11:01:36",,,,,,,
+order_id,total,payment_method,first_name,last_name,emirates,area_name,hub_name,order_status,created_at,accepted_at,prepared_at,assigned_at,started_at,completed_at,"cancel""reason",delay_reason
+1,43.2500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 10:46:51",,,,,,,
+2,16.7500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 11:01:36",,,,,,,
+order_id,total,payment_method,first_name,last_name,emirates,area_name,hub_name,order_status,created_at,accepted_at,prepared_at,assigned_at,started_at,completed_at,"cancel""reason",delay_reason
+1,43.2500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 10:46:51",,,,,,,
+2,16.7500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 11:01:36",,,,,,,
+order_id,total,payment_method,first_name,last_name,emirates,area_name,hub_name,order_status,created_at,accepted_at,prepared_at,assigned_at,started_at,completed_at,"cancel""reason",delay_reason
+1,43.2500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 10:46:51",,,,,,,
+2,16.7500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 11:01:36",,,,,,,
+order_id,total,payment_method,first_name,last_name,emirates,area_name,hub_name,order_status,created_at,accepted_at,prepared_at,assigned_at,started_at,completed_at,"cancel""reason",delay_reason
+1,43.2500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 10:46:51",,,,,,,
+2,16.7500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 11:01:36",,,,,,,
+order_id,total,payment_method,first_name,last_name,emirates,area_name,hub_name,order_status,created_at,accepted_at,prepared_at,assigned_at,started_at,completed_at,"cancel""reason",delay_reason
+1,43.2500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 10:46:51",,,,,,,
+2,16.7500,"Cash / Card On Delivery",sreenath,krishnan,Dubai,"Al Karama","Healthcare City","New Order","2021-11-30 11:01:36",,,,,,,
